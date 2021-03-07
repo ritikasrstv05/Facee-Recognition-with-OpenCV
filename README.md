@@ -8,5 +8,5 @@
 ![Output](https://github.com/ritikasrstv05/Image-Recognition-with-OpenCV/blob/main/imdetect.png)
 
 ### - Face Detection From Camera:
-<br>
+
 ![Output](https://github.com/ritikasrstv05/Image-Recognition-with-OpenCV/blob/main/r.png)
