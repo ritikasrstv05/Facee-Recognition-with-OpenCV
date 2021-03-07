@@ -1,5 +1,5 @@
-#Face-Detection-with-OpenCV <br>
-In This Module ,I've used OpenCV to detect faces from images and also  live camera face detection .<br>
+# Face-Detection-with-OpenCV <br>
+##In This Module ,I've used OpenCV to detect faces from images and also  live camera face detection .<br>
 
 Here are the results :<br>
 From Image :
